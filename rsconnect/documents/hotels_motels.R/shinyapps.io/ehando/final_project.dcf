@@ -1,0 +1,14 @@
+name: final_project
+title: final_project
+username:
+account: ehando
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 9124955
+bundleId: 7245719
+url: https://ehando.shinyapps.io/final_project/
+when: 1684713237.46349
+lastSyncTime: 1684713237.46357
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: .gitattributes|.RData|data/.DS_Store|data/vacation_rental.csv|README.md
