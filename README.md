@@ -214,7 +214,6 @@ We will analyze the hotels_motels data from data.gov for this project. In order 
     }})
 ## Links 🖇️
 
-[github](https://github.com/ehando/final_project)
 
 [shinnyApp](https://ehando.shinyapps.io/final_project/)
 
